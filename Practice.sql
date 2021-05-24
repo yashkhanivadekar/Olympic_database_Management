@@ -1,0 +1,15 @@
+select * from NATION;
+select * from ATHLETE;
+select * from VENUE;
+select * from GROUP_MATCH;
+select * from SPORT;
+select * from GROUP_ATHLETE;
+select * from OLYMPICS;
+select * from HOST_NTN_APPLICATION;
+select * from ATHL_APPLICATION;
+select * from EVENT;
+select * from EVENT_MATCH;
+select * from ATHLETE_EVENT;
+select * from NATION_LIST order by olym_id;
+select * from GROUP_MATCH_RESULT;
+select * from user_indexes;
